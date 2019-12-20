@@ -2,7 +2,7 @@
 Online webinar events system
 
 # Project Members
-  - Shubham Soni
   - Abhiyan Timilsina
+  - Shubham Soni
   - Mohnish Mallya
   - Debasis Nath
